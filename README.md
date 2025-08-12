@@ -203,10 +203,11 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Reference
 
-Big shoutout to zero Analyst Youtube Channel helps me lot throughout this project.
+Big THANKS to zero Analyst Youtube Channel helps me lot throughout this project.
 https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLFwmhe6EsY0H3yQsBWBNLS5Mh1Q_TZJfu
 
 ## THANK YOU !
+
 
 
 
